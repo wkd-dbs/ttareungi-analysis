@@ -88,7 +88,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-## ▶ 시각화 결과    ← 🆕 여기에 추가
+## ▶ 시각화 결과   
 
 ### 1. EDA: 월별 추이 및 변수별 산점도
 ![EDA](ttareungi_analysis.png)
